@@ -1,2 +1,8 @@
-# COSE361
-고려대학교 서홍석 교수님의 인공지능 코스에 대한 과제(berkely cs188) 
+# Korea-Univ.-COSE361
+- ### Korea University
+- ### COSE361-03 : Artificial Intelligence
+- ### Spring 2023
+- ### Professor Paul Hongseok Seo
+
+>
+Attribution Information: The Pacman AI projects were developed at UC Berkeley (http://ai.berkeley.edu). The core projects and autograders were primarily created by John DeNero (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu). Student side autograding was added by Brad Miller, Nick Hay, and Pieter Abbeel (pabbeel@cs.berkeley.edu).
